@@ -21,7 +21,7 @@ Neste projeto, o Vue se conecta a um servidor **WebSocket** baseado em **Spring 
 
 - ⚡ **Vue 3 + Vite**
 - 📡 **STOMP.js + SockJS** para comunicação WebSocket
-- 🎨 **TailwindCSS** (opcional, caso adicionado ao projeto)
+- 🎨 **CSS** estilização
 - 🔧 **ESLint** para padronização de código
 
 ---
